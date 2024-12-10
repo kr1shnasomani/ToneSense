@@ -1,2 +1,5 @@
-# Speech-Emotion-Recognition
-Speech emotion recognition using 
+# Speech Emotion Recognition
+
+## Execution Guide:
+
+## Overview:
