@@ -1,6 +1,13 @@
 # Speech Emotion Recognition
 
 ## Execution Guide:
+1. Run the following command line in the terminal:
+   ```
+   pip install numpy pandas librosa matplotlib seaborn tensorflow keras sounddevice
+   ```
+
+2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess**)
+
 
 ## Overview:
 The code is a complete implementation for **Speech Emotion Recognition (SER)**. The goal of this project is to predict the emotional state (e.g., happy, sad, angry) of a speaker based on their speech audio files. Below is an overview of the code's key components:
