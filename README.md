@@ -8,6 +8,13 @@
 
 2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess**)
 
+3. Upon running the code, it also saves an addition file named `model.keras` (this file stores the trained model)
+
+4. Enter the path of the audio file in the code.
+
+5. The following is an example of how the output will look like:
+
+   ![image](https://github.com/user-attachments/assets/1609e53a-ac10-46f6-8ddd-c413baddc4d1)
 
 ## Overview:
 The code is a complete implementation for **Speech Emotion Recognition (SER)**. The goal of this project is to predict the emotional state (e.g., happy, sad, angry) of a speaker based on their speech audio files. Below is an overview of the code's key components:
