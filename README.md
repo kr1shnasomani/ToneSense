@@ -1,4 +1,5 @@
 # Speech Emotion Recognition
+The project leverages Librosa for audio feature extraction, including MFCCs and spectral features and uses TensorFlow to develop a deep learning model for classifying emotions like happiness, sadness and anger. It incorporates spectrogram analysis for visual insights and supports real-time emotion recognition for practical applications.
 
 ## Execution Guide:
 1. Run the following command line in the terminal:
