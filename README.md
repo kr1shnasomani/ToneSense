@@ -11,7 +11,7 @@ The project leverages Librosa for audio feature extraction, including MFCCs and 
 
 3. Upon running the code, it also saves an addition file named `model.keras` (this file stores the trained model)
 
-4. Enter the path of the audio file in the code.
+4. Enter the path of the audio file in the code and it will provide the prediction
 
 ## Accuracy & Loss Over Epochs:
 
