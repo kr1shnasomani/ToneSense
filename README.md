@@ -13,7 +13,13 @@ The project leverages Librosa for audio feature extraction, including MFCCs and 
 
 4. Enter the path of the audio file in the code.
 
-5. The following is an example of how the output will look like:
+## Accuracy & Loss Over Epochs:
+
+![image](https://github.com/user-attachments/assets/e338a8ab-2a28-48ed-869a-ef683602cbc5)
+
+![image](https://github.com/user-attachments/assets/95158724-54a8-4734-a009-72510c038877)
+
+## Model Prediction:
 
    ![image](https://github.com/user-attachments/assets/1609e53a-ac10-46f6-8ddd-c413baddc4d1)
 
