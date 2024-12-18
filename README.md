@@ -1,4 +1,4 @@
-# Speech Emotion Recognition
+<h1 align="center">ToneSense</h1>
 The project leverages Librosa for audio feature extraction, including MFCCs and spectral features and uses TensorFlow to develop a deep learning model for classifying emotions like happiness, sadness and anger. It incorporates spectrogram analysis for visual insights and supports real-time emotion recognition for practical applications.
 
 ## Execution Guide:
