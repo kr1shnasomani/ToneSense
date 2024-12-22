@@ -4,7 +4,7 @@ The project leverages Librosa for audio feature extraction, including MFCCs and 
 ## Execution Guide:
 1. Run the following command line in the terminal:
    ```
-   pip install numpy pandas librosa matplotlib seaborn tensorflow keras sounddevice
+   pip install numpy pandas librosa matplotlib tensorflow keras sounddevice
    ```
 
 2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess**)
