@@ -21,6 +21,12 @@ The project leverages Librosa for audio feature extraction, including MFCCs and 
 
 ## Model Prediction:
 
+   Input:
+   
+   https://github.com/user-attachments/assets/d74d7fdf-802e-4742-8cde-9e434c969e32
+
+   Output:
+   
    ![image](https://github.com/user-attachments/assets/1609e53a-ac10-46f6-8ddd-c413baddc4d1)
 
 ## Overview:
