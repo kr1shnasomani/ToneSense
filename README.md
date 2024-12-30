@@ -21,7 +21,7 @@ The project leverages Librosa for audio feature extraction, including MFCCs and 
 
 ## Model Prediction:
 
-   Input:
+   Input (the file is in `.mp4` format as GitHub doesn't support audio files):
    
    https://github.com/user-attachments/assets/d74d7fdf-802e-4742-8cde-9e434c969e32
 
